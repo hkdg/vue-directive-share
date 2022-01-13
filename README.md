@@ -8,17 +8,27 @@
 
 内置指令简单指令:
 `v-if`
+
 `v-show`
+
 `v-for`
+
 `v-text`
+
 `v-html`
+
 `v-pre`
+
 `v-once`
 
 动态参数指令:
+
 `v-model -> v-model.trim=“content"`
+
 `v-bind -> v-bind:class=“{active: true}"`
+
 `v-on:click -> v-on:click=“handleClick"`
+
 `v-slot -> v-slot:header`
 
 ## 为什么要有指令？
